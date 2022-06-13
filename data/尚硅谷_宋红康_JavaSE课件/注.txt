@@ -1,0 +1,2 @@
+【atguigu_javanote.ncd】的笔记打开前，需要安装notecase-1.9.8_setup.exe。
+同时笔记需要放在纯英文路径下方可打开。
