@@ -19,8 +19,8 @@ public class Demo02 {
         person.showAge();
 
         Circle circle = new Circle();
-        circle.radius = 6;
-        System.out.println("面积：" + circle.area());
+//        circle.radius = 6;
+//        System.out.println("面积：" + circle.area());
 
 
     }
